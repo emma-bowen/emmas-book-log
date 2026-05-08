@@ -22,3 +22,6 @@ emmas-book-log/book-log-data.csv
 4. Print the DataFrame to view past entries and new addition
 
 Stay tuned for my data analysis and visualizations once I've collected more data!
+
+## Biography
+My name is Emma Bowen and I am a current online Masters Student at Arizona State University studying Computational Life Sciences.
